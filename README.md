@@ -10,6 +10,9 @@ I am Edgar Eldy a software engineer from BUJUMBURA, BURUNDI who is a DevOps enth
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdgarEldy&show_icons=true&include_all_commits=true)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdgarEldy&show_icons=true&locale=en&layout=compact" alt="EdgarEldy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EdgarEldy&" alt="EdgarEldy" /></p>
 
 ### Programming Languages 🌐
 

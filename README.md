@@ -5,7 +5,6 @@ I am Edgar Eldy a software engineer from BUJUMBURA, BURUNDI who is a DevOps enth
 - 🔭 Currently working on an Online cake delivery [Royal coffee house](https://royalcoffeehouse.net)
 - 🌱 Currently mastering Machine Learning
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: i am actually not boring
 - 💬 Ask me about: PHP, C#/Java, Perl/Python, C/C++
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdgarEldy&show_icons=true&include_all_commits=true)

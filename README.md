@@ -2,8 +2,7 @@
 
 My name is Edgar Eldy, i  am a software engineer, educator and consultant based in BURUNDI. I love teaching programming. Welcome to my world !
 
-- 🔭 Currently working on an Online cake delivery [Royal coffee house](https://royalcoffeehouse.net)
-- 🌱 Currently mastering Machine Learning
+- 🌱 Currently learning everything
 - 😄 Pronouns: He/him
 - 💬 Ask me about: C/C++, PHP, Javascript/Typescipt, C#, Java and Python. My favorite frontend framework is Vue.js
 

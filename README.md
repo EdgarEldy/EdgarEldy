@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I am Edgar Eldy a software engineer from BUJUMBURA, BURUNDI who is a DevOps enthusiast, loves Music and News, always learning new things.
+My name is Edgar Eldy, i  am a software engineer, educator and consultant based in BURUNDI. I love teaching programming. Welcome to my world !
 
 - 🔭 Currently working on an Online cake delivery [Royal coffee house](https://royalcoffeehouse.net)
 - 🌱 Currently mastering Machine Learning
 - 😄 Pronouns: He/him
-- 💬 Ask me about: PHP, C#, Java, Perl/Python, C/C++ and Javascript.
+- 💬 Ask me about: C/C++, PHP, Javascript/Typescipt, C#, Java and Python. My favorite frontend framework is Vue.js
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdgarEldy&show_icons=true&include_all_commits=true)
 

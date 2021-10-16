@@ -4,7 +4,7 @@ My name is Edgar Eldy, i  am a software engineer, educator and consultant based 
 
 - 🌱 Currently learning everything
 - 😄 Pronouns: He/him
-- 💬 Ask me about: C/C++, PHP, Javascript/Typescipt, C#, Java and Python. My favorite frontend framework is Vue.js
+- 💬 Ask me about: C/C++, PHP, Javascript/Typescript, C#, Java and Python. My favorite frontend framework is Vue.js
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdgarEldy&show_icons=true&include_all_commits=true)
 

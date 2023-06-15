@@ -18,3 +18,5 @@ You can find and get touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/EdgarEldy/EdgarEldy/master/img/github.png" alt="github logo" width="34">](https://github.com/EdgarEldy) | [<img src="https://raw.githubusercontent.com/EdgarEldy/EdgarEldy/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/edgareldy/) | [<img src="https://raw.githubusercontent.com/EdgarEldy/EdgarEldy/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/EdgarEldy) | [<img src="https://raw.githubusercontent.com/EdgarEldy/EdgarEldy/master/img/stack.svg" alt="stack logo" width="24">](https://stackoverflow.com/users/7906962/edgar-eldy) | [<img src="https://raw.githubusercontent.com/EdgarEldy/EdgarEldy/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/EdgarEldy)
 |---|---|---|---|---|
+ ## 💰 If my code has helped you, you can also help me by donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/edgareldy)

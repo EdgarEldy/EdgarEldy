@@ -6,6 +6,10 @@ My name is Edgar Eldy, i  am a software engineer, educator and consultant based 
 - 😄 Pronouns: He/him
 - 💬 Ask me about: C/C++, PHP, Javascript/Typescript, C#, Java and Python. My favorite frontend framework is Vue.js
 
+#### My committters.top rank 👇
+
+[![committers.top badge](https://user-badge.committers.top/burundi_private/EdgarEldy.svg)](https://user-badge.committers.top/burundi_private/EdgarEldy)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdgarEldy&show_icons=true&include_all_commits=true)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdgarEldy&show_icons=true&locale=en&layout=compact" alt="EdgarEldy" /></p>

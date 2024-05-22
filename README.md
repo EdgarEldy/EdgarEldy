@@ -4,7 +4,7 @@ My name is Edgar Eldy, i  am a software engineer, educator and consultant based 
 - 😎 Currently using BALL Stack : Bootstrap | Alpine.js | Laravel | Livewire
 - 🌱 Learning and creating everything
 - 😄 Pronouns: He/him
-- 💬 Ask me about: C/C++, PHP, Javascript/Typescript, C#, Java and Python. My favorite frontend framework is Vue.js
+- 💬 Ask me about: C/C++, PHP, Javascript/Typescript, C#, Java and Python.
 
 #### My committters.top rank 👇
 

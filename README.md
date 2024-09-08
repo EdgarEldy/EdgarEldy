@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Edgar Eldy, i  am a software engineer, educator and consultant based in BURUNDI. I love teaching programming. Welcome to my world !
+My name is Edgar Eldy, i  am a software engineer, educator and consultant based in BURUNDI. I love building apis and teaching programming. Welcome to my world !
 - 😎 Currently using BALL Stack : Bootstrap | Alpine.js | Laravel | Livewire
 - 🌱 Learning and creating everything
 - 😄 Pronouns: He/him

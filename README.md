@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Ecocash integration with partners at Econet Wireless Burundi<br>👯 I’m looking to collaborate on my tutorials.<br>🤝 I’m looking for help with : https://buymeacoffee.com/edgareldy.<br>🌱 I’m currently learning kubernetes and cloud computing.<br>💬 Ask me about C, C++, PHP, Javascript, Typescript, Java, C# and Python.<br>⚡ Fun fact : I can code all day long.
 
+# My committters.top rank 👇
+[![committers.top badge](https://user-badge.committers.top/burundi_private/EdgarEldy.svg)](https://user-badge.committers.top/burundi_private/EdgarEldy)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/EdgarEldy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edgareldy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edgareldy) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7906962) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/EdgarEldy) 

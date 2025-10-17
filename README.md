@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently based in Mauritius <img src='png/MU@2x.png?raw=true' width='21' height='15'> <br>
+🔭 Currently based in Mauritius <img src='img/MU@2x.png?raw=true' width='21' height='15'> <br>
 👯 I’m looking to collaborate on my tutorials.<br>🤝 I’m looking for help with : https://buymeacoffee.com/edgareldy.<br>
 🌱 I’m currently learning kubernetes and cloud computing.<br>
 💬 Ask me about C, C++, PHP, Javascript, Typescript, Java, C#, Python, Flutter and Dart.<br>⚡ Fun fact : I can code all day long.
@@ -34,4 +34,5 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 

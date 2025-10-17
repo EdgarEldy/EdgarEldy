@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Ecocash integration with partners at Econet Wireless Burundi<br>👯 I’m looking to collaborate on my tutorials.<br>🤝 I’m looking for help with : https://buymeacoffee.com/edgareldy.<br>🌱 I’m currently learning kubernetes and cloud computing.<br>💬 Ask me about C, C++, PHP, Javascript, Typescript, Java, C# and Python.<br>⚡ Fun fact : I can code all day long.
+🔭 Currently based in Mauritius <img src='png/MU@2x.png?raw=true' width='21' height='15'> <br>
+👯 I’m looking to collaborate on my tutorials.<br>🤝 I’m looking for help with : https://buymeacoffee.com/edgareldy.<br>
+🌱 I’m currently learning kubernetes and cloud computing.<br>
+💬 Ask me about C, C++, PHP, Javascript, Typescript, Java, C#, Python, Flutter and Dart.<br>⚡ Fun fact : I can code all day long.
 
 ## My committters.top rank 👇
 [![committers.top badge](https://user-badge.committers.top/burundi_private/EdgarEldy.svg)](https://user-badge.committers.top/burundi_private/EdgarEldy)
@@ -31,3 +34,4 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
